@@ -1,0 +1,4 @@
+"rules" "support" "confidence" "coverage" "lift" "count"
+"2266" "{Gembok Koper,Tas Waist Bag} => {Baju Renang Pria Anak-anak}" 0.00405797101449275 0.274509803921569 0.0147826086956522 29.5955882352941 14
+"2269" "{Flat Shoes Ballerina,Gembok Koper} => {Baju Renang Pria Anak-anak}" 0.00405797101449275 0.186666666666667 0.0217391304347826 20.125 14
+"2272" "{Celana Jeans Sobek Wanita,Jeans Jumbo} => {Baju Renang Pria Anak-anak}" 0.00550724637681159 0.121019108280255 0.0455072463768116 13.047372611465 19

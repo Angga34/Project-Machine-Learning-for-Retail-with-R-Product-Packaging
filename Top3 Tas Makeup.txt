@@ -1,0 +1,4 @@
+"rules" "support" "confidence" "coverage" "lift" "count"
+"236" "{Baju Renang Anak Perempuan} => {Tas Makeup}" 0.0197101449275362 0.548387096774194 0.0359420289855072 13.4179821551132 68
+"314" "{Celana Pendek Green/Hijau} => {Tas Makeup}" 0.0150724637681159 0.118451025056948 0.127246376811594 2.8982697620317 52
+"3534" "{Baju Renang Anak Perempuan,Celana Pendek Green/Hijau} => {Tas Makeup}" 0.0101449275362319 0.777777777777778 0.0130434782608696 19.0307328605201 35
